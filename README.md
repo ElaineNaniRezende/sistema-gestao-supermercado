@@ -22,7 +22,7 @@ As funcionalidades do sistema serão definidas e aprimoradas durante o levantame
 ## 👥 Integrantes
 
 - Elaine Rezende
-- Lucas Zanoni
+- Emilly Zanoni
 - Helen Eler
 
 ## 📦 Funcionalidades
@@ -66,4 +66,4 @@ As tecnologias utilizadas no desenvolvimento serão definidas durante as próxim
 
 **Atividades Curriculares de Extensão I**
 
-Projeto desenvolvido por Elaine Rezende, Lucas Zanoni e Helen Eler.
+Projeto desenvolvido por Elaine Rezende, Emilly Zanoni e Helen Eler.
